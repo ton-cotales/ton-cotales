@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Odi Girb
+## Hey there! 👋 I'm Ton Cotales
 
 I'm an aspiring tech enthusiast passionate about coding and technology. Currently, I spend most of my time diving into Python, exploring new ideas, and experimenting with simple GUI projects. I enjoy creating user-friendly applications that make life a little easier. 
 
